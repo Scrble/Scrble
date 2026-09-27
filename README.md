@@ -1,3 +1,3 @@
-# I've moved my projects
+# I've moved everything to a new account
 
-My projects are now at **[github.com/Dylan-Mays](https://github.com/Dylan-Mays)**
+ Go to **[github.com/Dylan-Mays](https://github.com/Dylan-Mays)**
